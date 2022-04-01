@@ -243,6 +243,10 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/sonata-project/block-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sonata-project/cache" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sonata-project/form-extensions" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/friendsofphp/php-cs-fixer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bitbag/coding-standard" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/php-cs-fixer/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpstan/phpstan-strict-rules" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
