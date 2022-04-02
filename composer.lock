@@ -7057,7 +7057,7 @@
                 "sylius/grid-bundle": "^1.7",
                 "symfony/dependency-injection": "^4.4 || ^5.2",
                 "symfony/dotenv": "^4.4 || ^5.2",
-                "symplify/easy-coding-standard": "^9.4",
+                "symplify/easy-coding-standard": "^8.3",
                 "twig/twig": "^2.12 || ^3.0",
                 "vimeo/psalm": "4.7.0"
             },
@@ -17741,7 +17741,7 @@
             "require": {
                 "php": "^8.0",
                 "slevomat/coding-standard": "^7.0",
-                "symplify/easy-coding-standard": "^9.4"
+                "symplify/easy-coding-standard": "^9.0 || ^10.0"
             },
             "conflict": {
                 "symplify/package-builder": "^8.3"
