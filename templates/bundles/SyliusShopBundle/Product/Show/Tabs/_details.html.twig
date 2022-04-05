@@ -1,0 +1,20 @@
+<div class="ui bottom attached tab segment active" data-tab="details">
+    {{ sylius_template_event('sylius.shop.product.show.tab_details', _context) }}
+
+    <br>
+    <br>
+    <table class="ui definition table">
+        <tr>
+            <td>
+                Color
+            </td>
+            <td>
+                {% if product.itemColor %}
+                    {{ product.itemColor|capitalize }}
+                {% else %}
+                    Not specified
+                {% endif %}
+            </td>
+        </tr>
+    </table>
+</div>

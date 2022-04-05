@@ -1,0 +1,4 @@
+sylius:
+    form:
+        product:
+            item_color: "Item color"
