@@ -22,7 +22,7 @@ section.
     
 The selected color can be seen on the shop page after clicking on any
 product in the product's details section (on the bottom). If the color
-hasn't been selected, then it will be displayed as "Not specified".
+has not been selected, then it will be displayed as "Not specified".
 
 
 Other information
